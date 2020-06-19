@@ -1,5 +1,5 @@
 #基于遗传算法的启发式算法
-# 作者：胡誉闻
+# 作者：Dgama
 
 
 import gurobipy as gp
