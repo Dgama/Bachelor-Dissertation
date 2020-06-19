@@ -1,5 +1,5 @@
 #求解器直接求解-全局最优
-# 作者：胡誉闻
+# 作者：Dgama
 
 import gurobipy as gp
 from gurobipy import GRB
