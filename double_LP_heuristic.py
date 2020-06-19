@@ -1,5 +1,5 @@
 # 启发式-双规划算法
-# 作者：胡誉闻
+# 作者：Dgama
 
 import gurobipy as gp
 from gurobipy import GRB
