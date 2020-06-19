@@ -1,5 +1,5 @@
 #枚举便利最优解（验证最优性）与动画演示
-# 作者：胡誉闻
+# 作者：Dgama
 
 import gurobipy as gp
 from gurobipy import GRB
